@@ -26,7 +26,7 @@
     "react-native-gesture-handler": "^1.6.1",
     "react-native-img-cache": "^1.6.0",
     "react-native-material-textfield": "^0.16.1",
-    "react-native-reanimated": "^1.9.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-router-flux": "^4.2.0",
     "react-native-safe-area-context": "^2.0.3",
     "react-native-screens": "^2.8.0",
